@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="dp144">144dp</dimen>
+    <dimen name="dp46">46dp</dimen>
+    <dimen name="dp16">16dp</dimen>
+    <dimen name="dp200">200dp</dimen>
+    <dimen name="dp400">400dp</dimen>
+
+    <dimen name="sp14">14sp</dimen>
+</resources>

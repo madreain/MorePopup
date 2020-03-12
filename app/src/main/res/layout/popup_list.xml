@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/layout"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="@dimen/dp144"
+    android:layout_height="wrap_content"
+    >
+
+    <com.madreain.morepopup.view.MaxHeightRecyclerView
+        app:maxHeight="@dimen/dp200"
+        android:id="@+id/recyclerView"
+        android:layout_width="@dimen/dp144"
+        android:layout_height="wrap_content" />
+
+</LinearLayout>
